@@ -1,12 +1,7 @@
-{
-  "app_version": "1.0.0",
-  "feature_flags": {
-    "beta_testing": false,
-    "new_dashboard": false
-  },
-  "ui": {
-    "theme": "light",
-    "main_color": "#007AFF"
-  },
-  "language": "ko"
-}
+I need to see the actual content of the current file and the modification request to provide you with the updated JSON. The variables you've referenced ({{ $('GitHub').item.json.data }} and {{ $('Get many database pages').item.json.properties.['수정 요청'].rich_text[0].plain_text }}) appear to be placeholders from a workflow tool like n8n.
+
+Could you please provide:
+1. The actual current JSON file content
+2. The specific modification request
+
+Once you provide these, I'll output the modified JSON object according to your requirements.
