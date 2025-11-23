@@ -1,0 +1,19 @@
+I need to see the actual content to help you modify the JSON file. However, based on your template, it appears you're trying to:
+
+1. Get data from a GitHub item
+2. Apply modifications based on a request from a Notion database page
+
+Since the template variables aren't populated, I'll provide the format for how I would respond:
+
+```json
+{
+  "modified": true,
+  "data": {}
+}
+```
+
+To properly help you, please provide:
+1. The actual content from `{{ $('GitHub').item.json.data }}`
+2. The modification request from `{{ $('Get many database pages').item.json.properties.['수정 요청'].rich_text[0].plain_text }}`
+
+Once you provide these values, I'll output the modified JSON object according to your specifications.
