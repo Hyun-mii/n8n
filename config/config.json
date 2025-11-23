@@ -1,12 +1,7 @@
-{
-  "app_version": "1.0.0",
-  "feature_flags": {
-    "beta_testing": false,
-    "new_dashboard": false
-  },
-  "ui": {
-    "theme": "light",
-    "main_color": "#007AFF"
-  },
-  "language": "ko"
-}
+I need to see the actual content of the current file and the modification request to provide you with the correct JSON output. However, since the template variables `{{ $('GitHub').item.json.data }}` and `{{ $('Get many database pages').item.json.properties.['수정 요청'].rich_text[0].plain_text }}` are not resolved, I cannot provide the specific modified JSON.
+
+Please provide:
+1. The current JSON file content
+2. The modification request
+
+Then I'll output the modified JSON object according to your requirements.
